@@ -1,0 +1,7 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/Logo.png" # Pfad zu Ihrem Android-Logo-Bild
+  adaptive_icon_background: "#FFFFFF" # Hintergrundfarbe des adaptiven Icons (falls erforderlich)
+  adaptive_icon_foreground: "assets/Logo.png" # Pfad zu Ihrem Android-Foreground-Logo-Bild (falls erforderlich)
+  remove_alpha_ios: true #Anti Alphachannel bei iOS
